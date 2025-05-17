@@ -1,4 +1,3 @@
 # Bienvenido a mi primer página web
 
-* Prueba
-* Prueba 3
+* Prueba de Git en mi primer página web.
